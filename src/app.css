@@ -1,0 +1,13 @@
+.container {
+  max-width: 800px;
+  margin: auto;
+  padding: 20px;
+  position: relative;
+  z-index: 1;
+}
+
+body {
+  font-family: 'Courier New', monospace;
+  background: linear-gradient(135deg, #00d0ee 0%, #7ff889 100%);
+  overflow-x: hidden;
+}
