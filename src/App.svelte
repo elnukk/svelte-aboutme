@@ -30,7 +30,7 @@
   <Header name="Elanu Karakus" tagline="19 yo • Stanford CS • 🇹🇷" />
 
   <Card title="About Me">
-    <p>Hi! I'm Elanu, a 19-year-old CS student at Stanford... for sustainable farming practices!</p>
+    <p>Hi! I'm Elanu, a 19-year-old CS student at Stanford. What I really like about technology is that it gives you an opportunity to turn your ideas into something tangible. I’m currently interning at a tech nonprofit that is building AI tools for smallholder farmers for sustainable farming practices!</p>
   </Card>
 
   <Card title="My KWK Journey">
